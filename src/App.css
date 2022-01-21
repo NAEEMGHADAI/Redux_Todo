@@ -37,6 +37,7 @@ html {
 }
 
 input {
+	overflow: hidden;
 	/* display: block; */
 	min-width: 50rem;
 	height: 3.4rem;
@@ -227,7 +228,7 @@ input:focus {
 	transform: translateY(0) scale(1, 1);
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 500px) {
 	input {
 		min-width: 27rem;
 	}
