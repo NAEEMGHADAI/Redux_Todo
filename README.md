@@ -1,10 +1,10 @@
-## Rudux Todo App
+# Rudux Todo App
 Simple Todo List
 
-# Website
+## Website
 https://reduxtodo14.web.app/
 
-# Technologies used
+## Technologies used
 Todo List was made with the help of React and Redux.
 Front-End Ui/Ux was made with the help of Css.
 
@@ -14,7 +14,7 @@ Front-End Ui/Ux was made with the help of Css.
 
 ![Screenshot (214)](https://user-images.githubusercontent.com/51822103/150540993-df14aa13-8104-407b-9c0c-5f144a65e445.png)
 
-# Mobile View
+## Mobile View
 
 ![image](https://user-images.githubusercontent.com/51822103/150541013-5704716d-fcc4-4eff-a1d7-f8c75975559e.png)
 
